@@ -4,7 +4,7 @@ struct node{
 			int info;
 			struct node *next;
 			};
-typedef struct node node1;
+typedef struct node node1; 
 
 void initlist(node1 **list)
 {
